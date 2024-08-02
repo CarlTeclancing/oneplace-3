@@ -1,0 +1,56 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+   
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 1140px;
+    height: 1140px;
+    border: solid black;
+    background-color: blue;
+
+}
+input{
+    border: none;
+    background-color:rgba(218, 218, 208, 0.884);
+    width: 300px;
+    height: 20px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.sub1{
+    width: 300px;
+    height: 40px;
+    border: none;
+    background-color: orange;
+    border-radius: 30px;
+    color: white;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sub3{
+    width: 300px;
+    height: 40px;
+    border: none;
+    background-color: orange;
+    border-radius: 30px;
+    color: white;
+}
+.sub6{
+    margin-right: 200px;
+   margin-top: 10px;
+}
+a{
+    color: red;
+}
